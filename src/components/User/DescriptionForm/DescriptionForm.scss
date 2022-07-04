@@ -1,0 +1,14 @@
+@import "../../../scss/index.scss";
+
+.description-form {
+  margin: 20px;
+
+  textarea {
+    margin-bottom: 5px !important;
+  }
+}
+
+.error {
+  border: 1px solid red !important;
+  color: red;
+}
